@@ -50,7 +50,7 @@ public class celsiusmain extends AppCompatActivity {
                         textViewResultado.setText("Resultado en Celsius: " + celsiusValue.getValor() + " °C");
                     }
                 } else {
-                    textViewResultado.setText("Por favor, ingrese un valor.");
+                    textViewResultado.setText("Por favor, ingrese un valor");
                 }
             }
         });
